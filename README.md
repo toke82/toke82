@@ -10,11 +10,8 @@
 - 💞️ I’m looking to collaborate on projects as freelance solidity developer  
   
 
-<br/>  
+<br/>
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
 
 
@@ -29,9 +26,6 @@
 </div>
 
 
-
-
-</td></tr></table>  
 
 <br/>  
 
