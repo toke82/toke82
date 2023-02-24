@@ -1,6 +1,6 @@
-### <div align="center">👋 Hi, I’m @toke82. 👨‍💻 </div>
+### <div align="center">👋 Hi, I’m @toke82.  </div>
 
-## About Me
+## 👨‍💻 About Me
 A passionate <strong>fullstack web developer</strong> and <strong>solidity blockchain engineer</strong>.
  
 <br/>  
