@@ -2,15 +2,14 @@
 
 ## About Me
 A passionate fullstack web developer and solidity blockchain engineer.
-
-
-- 👀 I’m interested in web3, smart contracts, solidity, defi.  
+ 
   
 
-- 🌱 I’m currently learning everything related to web3  
+- 🌱 I’m currently learning more about defi,smart contracts.
+ 
+- 🔭 Looking for new challenges in startups or in web3 - blockchain ecosystems
   
-
-- 💞️ I’m looking to collaborate on projects as freelance solidity developer  
+- 💻 I’m looking to collaborate on projects as freelance solidity developer  
   
 
 <br/>
