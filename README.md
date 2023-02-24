@@ -3,7 +3,7 @@
 ## About Me
 A passionate fullstack web developer and solidity blockchain engineer.
  
-  
+<br/>  
 
 - 🌱 I’m currently learning more about defi,smart contracts.
  
