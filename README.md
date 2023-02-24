@@ -1,9 +1,8 @@
 ### <div align="center">👋 Hi, I’m @toke82. 👨‍💻 </div>
 
 ## About Me
- <div align="center">
-  A passionate fullstack web developer and solidity blockchain engineer.
- </div>
+A passionate fullstack web developer and solidity blockchain engineer.
+
 
 - 👀 I’m interested in web3, smart contracts, solidity, defi.  
   
