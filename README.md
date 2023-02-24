@@ -5,7 +5,7 @@ A passionate <strong>fullstack web developer</strong> and <strong>solidity block
  
 <br/>  
 
-- 🌱 I’m currently learning more about defi,smart contracts.
+- 🌱 I’m currently learning more about defi and smart contracts.
  
 - 🔭 Looking for new challenges in startups or in web3 - blockchain ecosystems
   
