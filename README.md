@@ -11,7 +11,7 @@ A passionate <strong>fullstack web developer</strong> and <strong>solidity block
   
 - 💻 I’m looking to collaborate on projects as freelance solidity developer
 
-- [Check Portfolio](https://github.com/rishavanand/github-profilinator](https://portfolio-website-toke82.vercel.app/) 
+- [Check Portfolio](https://portfolio-website-toke82.vercel.app/)
   
 
 <br/>
