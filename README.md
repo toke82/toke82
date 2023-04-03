@@ -9,7 +9,9 @@ A passionate <strong>fullstack web developer</strong> and <strong>solidity block
  
 - 🔭 Looking for new challenges in startups or in web3 - blockchain ecosystems
   
-- 💻 I’m looking to collaborate on projects as freelance solidity developer  
+- 💻 I’m looking to collaborate on projects as freelance solidity developer
+
+- [Check Portfolio](https://github.com/rishavanand/github-profilinator](https://portfolio-website-toke82.vercel.app/) 
   
 
 <br/>
