@@ -38,11 +38,9 @@ const aboutMe = {
 ## Languages and Tools  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,solidity,react,nextjs,tailwind,nodejs,express,git,docker,ipfs,mongodb,mysqlredis" />
+    <img src="https://skillicons.dev/icons?i=ts,js,solidity,react,nextjs,tailwind,nodejs,express,git,docker,ipfs,mongodb,mysql,redis" />
   </a>
 </p>
-
-
 
 <br/>  
 
