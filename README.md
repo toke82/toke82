@@ -5,13 +5,29 @@ A passionate <strong>fullstack web developer</strong> and <strong>solidity block
  
 <br/>  
 
-- 🌱 I’m currently learning more about defi and smart contracts.
- 
-- 🔭 Looking for new challenges in startups or in web3 - blockchain ecosystems
-  
-- 💻 I’m looking to collaborate on projects as freelance solidity developer
-
-- [Check Portfolio](https://portfolio-website-toke82.vercel.app/)
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Typescript, Javascript, Solidity],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Next.js"],
+         css: ["Tailwind"]
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+      },
+      web3: {
+        libraries: ["ethers.js", "web3.js"],
+        fs: ["ipfs"]
+      }
+      databases: {
+        sql: ["MySQL"],
+        noSql: ["MongoDB", "Redis"]
+      }
+   }
+};
+```
   
 
 <br/>
