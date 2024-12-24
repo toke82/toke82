@@ -19,6 +19,7 @@ const aboutMe = {
       },
       web3: {
         libraries: ["ethers.js", "web3.js"],
+        tools: ["Hardhat", "Foundry"],
         fs: ["ipfs"]
       },
       databases: {
