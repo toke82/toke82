@@ -1,7 +1,7 @@
 ### <div align="center">👋 Hi, I’m Adrián.  </div>
 
 ## 👨‍💻 About Me
-A passionate <strong>fullstack web developer</strong> and <strong>solidity blockchain engineer</strong>.
+A passionate <strong>fullstack web3 developer</strong> and <strong>solidity blockchain engineer</strong>.
  
 <br/>  
 
