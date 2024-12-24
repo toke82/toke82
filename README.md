@@ -20,7 +20,7 @@ const aboutMe = {
       web3: {
         libraries: ["ethers.js", "web3.js"],
         fs: ["ipfs"]
-      }
+      },
       databases: {
         sql: ["MySQL"],
         noSql: ["MongoDB", "Redis"]
